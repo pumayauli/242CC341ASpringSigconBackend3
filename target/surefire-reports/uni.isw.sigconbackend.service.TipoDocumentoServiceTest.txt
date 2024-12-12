@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: uni.isw.sigconbackend.service.TipoDocumentoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.134 s <<< FAILURE! -- in uni.isw.sigconbackend.service.TipoDocumentoServiceTest
+uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testDeleteTipoDocumento -- Time elapsed: 0.059 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "uni.isw.sigconbackend.repository.TipoDocumentoRepository.deleteById(Object)" because "this.tipoDocumentoRepository" is null
+	at uni.isw.sigconbackend.service.TipoDocumentoService.deleteTipoDocumento(TipoDocumentoService.java:30)
+	at uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testDeleteTipoDocumento(TipoDocumentoServiceTest.java:83)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testUpdateTipoDocumento -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "uni.isw.sigconbackend.repository.TipoDocumentoRepository.save(Object)" because "this.tipoDocumentoRepository" is null
+	at uni.isw.sigconbackend.service.TipoDocumentoService.updateTipoDocumento(TipoDocumentoService.java:26)
+	at uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testUpdateTipoDocumento(TipoDocumentoServiceTest.java:70)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testGetTipoDocumentos -- Time elapsed: 0.005 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "uni.isw.sigconbackend.repository.TipoDocumentoRepository.findAll()" because "this.tipoDocumentoRepository" is null
+	at uni.isw.sigconbackend.service.TipoDocumentoService.getTipoDocumentos(TipoDocumentoService.java:15)
+	at uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testGetTipoDocumentos(TipoDocumentoServiceTest.java:28)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testInsertTipoDocumento -- Time elapsed: 0.004 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "uni.isw.sigconbackend.repository.TipoDocumentoRepository.save(Object)" because "this.tipoDocumentoRepository" is null
+	at uni.isw.sigconbackend.service.TipoDocumentoService.insertTipoDocumento(TipoDocumentoService.java:22)
+	at uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testInsertTipoDocumento(TipoDocumentoServiceTest.java:57)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testGetTipoDocumento -- Time elapsed: 0.003 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "uni.isw.sigconbackend.repository.TipoDocumentoRepository.findById(Object)" because "this.tipoDocumentoRepository" is null
+	at uni.isw.sigconbackend.service.TipoDocumentoService.getTipoDocumento(TipoDocumentoService.java:18)
+	at uni.isw.sigconbackend.service.TipoDocumentoServiceTest.testGetTipoDocumento(TipoDocumentoServiceTest.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+

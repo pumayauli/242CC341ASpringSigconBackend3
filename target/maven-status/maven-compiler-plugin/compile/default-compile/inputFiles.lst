@@ -1,0 +1,16 @@
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\Application.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\controller\PersonaController.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\controller\TipoDocumentoController.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\controller\UbigeoController.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\dto\PersonaRequest.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\dto\PersonaResponse.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\model\Persona.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\model\TipoDocumento.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\model\Ubigeo.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\repository\PersonaRepository.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\repository\TipoDocumentoRepository.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\repository\UbigeoRepository.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\service\PersonaService.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\service\TipoDocumentoService.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\service\UbigeoService.java
+C:\PruebaTest\242CC341ASpringSigconBackendD1-master\src\main\java\uni\isw\sigconbackend\utils\ErrorResponse.java
